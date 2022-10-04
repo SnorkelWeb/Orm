@@ -1,0 +1,17 @@
+{
+    "name": "itzzpadre/orm",
+    "description": "A lightweight Orm for slimeframework",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itzzpadre\\Orm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Bamber"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
